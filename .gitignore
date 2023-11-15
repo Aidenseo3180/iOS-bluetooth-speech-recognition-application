@@ -88,3 +88,6 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+
+# Hidden file
+.DS_Store
