@@ -1,4 +1,6 @@
 # iOS-bluetooth-speech-recognition-application
+[![Latest release](https://img.shields.io/github/release/Aidenseo3180/iOS-bluetooth-speech-recognition-application.svg)](https://github.com/Aidenseo3180/iOS-bluetooth-speech-recognition-application/releases/latest)  
+
 A mobile application that allows an iOS device to connect to [Adafruit Bluefruit LE SPI Friend](https://www.adafruit.com/product/2633) by default, and control everything through a speech recognition feature.  
 The configuration of the application can be changed from CBUUID.swift file to connect to other Bluetooth devices.  
 It is implemented to control LED Checkers hardware that is specifically designed for ECE1896 Senior Design Project.  
